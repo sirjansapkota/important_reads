@@ -12,8 +12,7 @@
     Timeline: began 10-12 kYA
         
 - 2.0: start of the science of breeding (Rise of Fisher, and quantitative concept of breeding)
-    Method: replicated trails, controlled design and crosses, statistical and experimental designs, hybrid vigor,
-             pedigree-breeding and precise measurements using tools/scales.
+    Method: replicated trails, controlled design and crosses, statistical and experimental designs, hybrid vigor, pedigree-breeding and precise measurements using tools/scales.
          
     Triggered by: Inbreeding depression, Mendelian genetics, development of statistics and quantitative and pop. genetics
          
@@ -27,10 +26,7 @@
     Timeline: From late 1980s.
          
 - 4.0:
-         New level of breeding where functional genetic variants can be rationally combined both faster and better than before.
-         Catalyzed by rapidly advancing genetics and information systems technologies. HTP can measure numerous traits
-         longitudinally across the growth phase of plants and machine learning can process and interpret agronomic data beyond
-         human's capabilities. Genome editing is expected to enable parallel precise modifications at many sites per generation.
+New level of breeding where functional genetic variants can be rationally combined both faster and better than before. Catalyzed by rapidly advancing genetics and information systems technologies. HTP can measure numerous traits longitudinally across the growth phase of plants and machine learning can process and interpret agronomic data beyond human's capabilities. Genome editing is expected to enable parallel precise modifications at many sites per generation.
          
     One could envision 5.0 involving de novo design of genes, pathways and traits, but it is far in future.
       
