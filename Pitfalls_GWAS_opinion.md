@@ -22,7 +22,7 @@ Incorrect conclusions at validation stage may lead to poor to no prediction accu
 
 __1.  Prediction of phenotypes from genetic markers:__
 
-Assuming that the estimated h<sup>2</sup> is a true reflection of the population parameter, then __h2 is the upper limit of the phenotypic variance explained by a linear predictor (R2) based on DNA markers__ such as SNPs, and a genetic predictor can thus never fully account for all phenotypic variation.
+Assuming that the estimated h<sup>2</sup> is a true reflection of the population parameter, then __h<sup>2</sup> is the upper limit of the phenotypic variance explained by a linear predictor (R<sup>2</sup>) based on DNA markers__ such as SNPs, and a genetic predictor can thus never fully account for all phenotypic variation.
 
 In practice, not all environmental factors are identified (and some factors that are classified as ‘environment’ may simply be __stochastic events__ like _population structure_).
 
@@ -35,7 +35,7 @@ SNPs are are typically not the causal variants for a phenotype, they are __just 
 _If a genetic variant is associated with fitness, _election will drive one allele to low frequency_.
 The __larger the effect__ of a SNP on fitness, the __lower the frequencies of the causal alleles__ are expected to be. [Maintaining evolvability](https://www.ncbi.nlm.nih.gov/pubmed/19147924)
 
-The difference between the variance explained by genome-wide-significant SNPs (hGWS) and heritability estimates from family studies (h2) has been called the __‘missing heritability’__, and the difference between hGWS and h2M has been described as the  __‘hidden heritability’__.
+The difference between the variance explained by genome-wide-significant SNPs (h<sub>GWS</sub>) and heritability estimates from family studies (h<sup>2</sup>) has been called the __‘missing heritability’__, and the difference between h<sub>GWS</sub> and h<sup>2</sup><sub>M</sub> has been described as the  __‘hidden heritability’__.
 __h<sub>GWS</sub> < h<sup>2</sup><sub>M</sub> < h<sup>2</sup>__
 
 In livestock populations, _smaller effective population size leads to long range LD_, and as a result causal variant explain a large proportion of heritability, and hence even rare alleles can be predicted by a linear combination of SNPs that are in LD with the causal variant.
