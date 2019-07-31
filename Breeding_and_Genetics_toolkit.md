@@ -18,6 +18,10 @@ TASSEL is a software package used to evaluate traits associations, evolutionary 
 
 Read more at: [Bradbury et. al. 2007](https://academic.oup.com/bioinformatics/article/23/19/2633/185151)
 
+[PLINK](http://zzz.bwh.harvard.edu/plink/): Whole genome association analysis toolset
+
+[Breeding Scheme Language](https://dl.sciencesocieties.org/publications/cs/pdfs/57/3/1347):  Breeding strategy optimzation using simulation based on user defined target species and trait genetic architectures.
+
 R packages:
 [lme4](https://cran.r-project.org/web/packages/lme4/lme4.pdf): Linear Mixed-Effects Models using 'Eigen' and S4 objects. Useful for variance component analysis like calculation of ANOVA, BLUE/BLUP, broad-sense heritability.
 
@@ -38,12 +42,12 @@ Useful for mixed-effects models for association analysis and prediction.
 Common Models: MLM, CMLM, P3D, SUPER
 GAPIT  usesR  libraries:  multtest,  gplots,  LDheatmap,  genetics,  EMMREML, scatterplot3d, and  a modified  version  of  the  EMMA  R  package.
 
+[qtl](https://cran.r-project.org/web/packages/qtl/index.html): Tools for Analyzing QTL experiments
 
+[Genetics](https://cran.r-project.org/web/packages/genetics/index.html): Population Genetics 
+Classes and methods for handling genetic data. Includes classes to represent genotypes and haplotypes at single markers up to multiple markers on multiple chromosomes. Function include allele frequencies, flagging homo/heterozygotes, flagging carriers of certain alleles, estimating and testing for Hardy-Weinberg disequilibrium, estimating and testing for linkage disequilibrium, ...
 
+[TIDYVERSE](https://cran.r-project.org/web/packages/tidyverse/index.html): Suite of R packages for Data Wrangling and Visualization
 
-
-
- 
-  
-
+[Statistical Genetics] (https://cran.r-project.org/web/views/Genetics.html): Views on R packages for statistical analysis of genetic data.
 
