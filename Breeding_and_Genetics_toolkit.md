@@ -20,7 +20,8 @@ Read more at: [Bradbury et. al. 2007](https://academic.oup.com/bioinformatics/ar
 
 [PLINK](http://zzz.bwh.harvard.edu/plink/): Whole genome association analysis toolset
 
-[Breeding Scheme Language](https://dl.sciencesocieties.org/publications/cs/pdfs/57/3/1347):  Breeding strategy optimzation using simulation based on user defined target species and trait genetic architectures.
+[BreedingSchemeLanguage](https://cran.r-project.org/web/packages/BreedingSchemeLanguage/index.html)[publication](https://dl.sciencesocieties.org/publications/cs/pdfs/57/3/1347):  Describe and Simulate Breeding Schemes
+Users can simulate their planned breeding schemes by using functions that do standard breeding tasks. 
 
 R packages:
 [lme4](https://cran.r-project.org/web/packages/lme4/lme4.pdf): Linear Mixed-Effects Models using 'Eigen' and S4 objects. Useful for variance component analysis like calculation of ANOVA, BLUE/BLUP, broad-sense heritability.
@@ -49,5 +50,5 @@ Classes and methods for handling genetic data. Includes classes to represent gen
 
 [TIDYVERSE](https://cran.r-project.org/web/packages/tidyverse/index.html): Suite of R packages for Data Wrangling and Visualization
 
-[Statistical Genetics] (https://cran.r-project.org/web/views/Genetics.html): Views on R packages for statistical analysis of genetic data.
+[Statistical Genetics](https://cran.r-project.org/web/views/Genetics.html): Views on R packages for statistical analysis of genetic data.
 
