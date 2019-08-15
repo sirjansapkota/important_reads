@@ -42,7 +42,8 @@ Functions for reading, writing, plotting, analysing, and manipulating allelic an
 [GAPIT](http://www.zzlab.net/GAPIT/gapit_help_document.pdf): Genomic Association and Prediction Integrated Tool
 Useful for mixed-effects models for association analysis and prediction.
 Common Models: MLM, CMLM, P3D, SUPER
-GAPIT  usesR  libraries:  multtest,  gplots,  LDheatmap,  genetics,  EMMREML, scatterplot3d, and  a modified  version  of  the  EMMA  R  package.
+
+GAPIT  uses R  libraries:  multtest,  gplots,  LDheatmap,  genetics,  EMMREML, scatterplot3d, and  a modified  version  of  the  EMMA  R  package.
 
 [qtl](https://cran.r-project.org/web/packages/qtl/index.html): Tools for Analyzing QTL experiments
 
