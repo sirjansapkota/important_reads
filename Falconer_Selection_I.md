@@ -32,6 +32,7 @@ The prediction of response is only valid, in principle, for one generation of se
 
 1. If there is a response, gene frequency must change (small unless only a few loci are involved)
 2. selection of parent reduces variance and the heritability
+
 However, the expected changes in heritability are not large and response is usually maintained with little changes over several generations (five, ten, or more).
 
 ##### selection differential and intensity of selection
