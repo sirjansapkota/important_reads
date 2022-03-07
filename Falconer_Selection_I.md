@@ -42,5 +42,9 @@ Selection differential can be predicted in advance if two conditions are met:
 
 Truncation selection means that individuals are chosen strictly in order of merit as judged by their phenotypic values, no individual being selected that is less good than any of those rejected.
 
+Selection intensity (i) is the selection differential divided by standard deviation (measure of variability), i = S/Vp. Selection intensity depends on the proportion of the population included in the selected group and provided the distribution of phenotypic values is normal it can be determined from tables of the properties of the normal distribution.
+
+
+
 
 
